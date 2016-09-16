@@ -1,0 +1,1 @@
+('Input: i am abhinav. he is awesome\nParse:\nabhinav. JJ ROOT\n +-- i PRP nsubj\n +-- am VBP cop\n +-- awesome JJ ccomp\n     +-- he PRP nsubj\n     +-- is VBZ cop\n', None)

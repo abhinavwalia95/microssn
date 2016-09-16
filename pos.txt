@@ -1,0 +1,1 @@
+is VBZ cop/abhinav. JJ ROOT/i PRP nsubj/am VBP cop/awesome JJ ccomp/he PRP nsubj
